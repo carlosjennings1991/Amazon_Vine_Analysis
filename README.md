@@ -47,6 +47,13 @@ There were 4,867 five star reviews from people who were not Vine members. Screen
 
 <img src="https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/non_vine_members_five_stars.png" height="75" width="522">
 
+
+### Percentage of Vine Reviews that 5 Stars
+
+More than two thirds of the reviews from Vine members were 5 stars (67.4%). Screenshot below
+
+<img src="https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/vine_percentage_five_stars.png" height="120" width="684">
+
 ___
 
 ## Summary
