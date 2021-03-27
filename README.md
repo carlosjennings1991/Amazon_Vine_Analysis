@@ -35,7 +35,7 @@ There were 16464 non-vine reviews, we can see a screenshot from jupyter notebook
 ### Number of 5 Star Reviews from Vine Members
 
 There were 93 five star reviews from Vine Members.
-<img src"https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/vine_members_five_stars.png" height="75" width="493">
+<img src="https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/vine_members_five_stars.png" height="75" width="493">
 
 ___
 
