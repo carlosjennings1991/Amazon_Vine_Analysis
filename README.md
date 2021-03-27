@@ -64,3 +64,11 @@ More than two thirds of the reviews from Vine members were 5 stars (67.4%). Scre
 ___
 
 ## Summary
+
+After reviewing both subsets, it's abundandly clear that there is a bias towards 5 star reviews among Vine members. The majority of their reviews, 67.4%, were five stars, compared to only 42% from the rest. In other words, a vine member is sixty percent more likely to give a five star review than a non-vine members. 
+
+Now that we know there is a bias, we should explore other variables as well, such as the following. 
+
+* One star reviews, are vine members giving one star reviews at a much lower percentage compared to everyone else?
+* Are there products which receive a disproportionate amount of reviews from Vine Members? 
+ 
