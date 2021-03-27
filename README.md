@@ -19,15 +19,17 @@ ___
 
 After extracting, transforming and loading our data we have a base data frame. We then split it into two groups - reviews belonging to vine members, and the rest. Here are some key takeaways. 
 
+
 ### Number of Vine Reviews:
 
 There are 231 vine reviews, we can see a screenshot from jupyter notebook confirming such below. 
 <img src="https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/vine_members.png" height="76" width="266">
 
+
 ### Number of Non-Vine Reviews:
 
 There were 16464 non-vine reviews, we can see a screenshot from jupyter notebook confirming such below. 
-
+<img src="https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/non-vine_members.png" height="75" width="290">
 
 ___
 
