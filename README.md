@@ -6,4 +6,15 @@ Amazon has a service, called 'Vine' where it pays people to review products. Whi
 <br>
 [Data Analysis Source File Here](https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 
+## Tools Used
+- [x] Python (Pandas, PySpark)
+- [x] SQL (Postgres)
+- [x] AWS (RDS)
 
+___
+
+## Results
+
+___
+
+## Summary
