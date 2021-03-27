@@ -23,24 +23,28 @@ After extracting, transforming and loading our data we have a base data frame. W
 ### Number of Vine Reviews:
 
 There are 231 vine reviews, we can see a screenshot from jupyter notebook confirming such below. 
+
 <img src="https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/vine_members.png" height="76" width="266">
 
 
 ### Number of Non-Vine Reviews:
 
 There were 16,464 non-vine reviews, we can see a screenshot from jupyter notebook confirming such below. 
+
 <img src="https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/non-vine_members.png" height="75" width="290">
 
 
 ### Number of 5 Star Reviews from Vine Members:
 
 There were 93 five star reviews from Vine Members. Screenshot below
+
 <img src="https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/vine_members_five_stars.png" height="75" width="493">
 
 
 ### Number of 5 Star Reviews from everyone else:
 
 There were 4,867 five star reviews from people who were not Vine members. Screenshot below
+
 <img src="https://github.com/carlosjennings1991/Amazon_Vine_Analysis/blob/main/non_vine_members_five_stars.png" height="75" width="522">
 
 ___
