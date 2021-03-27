@@ -71,4 +71,4 @@ Now that we know there is a bias, we should explore other variables as well, suc
 
 * One star reviews, are vine members giving one star reviews at a much lower percentage compared to everyone else?
 * Are there products which receive a disproportionate amount of reviews from Vine Members? 
- 
+* Is this trend consistent across product types? We reviewed software, which is very unique as a product class. Consequently, we should confirm if the positive bias among vine members is replicated across other product types like pet products, appliances or apparel. 
